@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Nagmote</h1>
-<h3 align="center">Full-Stack Developer | React • Node.js • Cloud | Open Source Contributor</h3>
+<h3 align="center">Full-Stack Developer | Software Backend Developer | Open Source Contributor</h3>
 
 <p align="center">
   <a href="mailto:tejasnagmote520@gmail.com"><img src="https://img.shields.io/badge/Email-tejasnagmote520%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
