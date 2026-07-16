@@ -10,9 +10,8 @@
 
 ### 🚀 About Me
 
-- 💻 I build **full-stack web applications** with the MERN stack and PostgreSQL
-- ☁️ Deploying and automating with **AWS, Docker & CI/CD pipelines**
-- 🌱 Actively contributing to **open source** projects
+I am r B.Tech Computer Science and Engineering student with a passion for software development and technology. I enjoy building real-world applications and solving challenging problems through coding. I am always eager to learn new technologies and improve my knowledge through hands-on projects. My goal is to start my career as a software engineer and contribute to impactful solutions.
+
 - 📫 Reach me at **tejasnagmote520@gmail.com**
 
 ---
@@ -80,17 +79,5 @@
   <img src="https://img.shields.io/badge/System_Design-E67E22?style=for-the-badge" alt="System Design"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devtejasx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtejasx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devtejasx&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 
