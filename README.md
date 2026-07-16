@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I am r B.Tech Computer Science and Engineering student with a passion for software development and technology. I enjoy building real-world applications and solving challenging problems through coding. I am always eager to learn new technologies and improve my knowledge through hands-on projects. My goal is to start my career as a software engineer and contribute to impactful solutions.
+I am  B.Tech Computer Science and Engineering student with a passion for software development and technology. I enjoy building real-world applications and solving challenging problems through coding. I am always eager to learn new technologies and improve my knowledge through hands-on projects. My goal is to start my career as a software engineer and contribute to impactful solutions.
 
 - 📫 Reach me at **tejasnagmote520@gmail.com**
 
