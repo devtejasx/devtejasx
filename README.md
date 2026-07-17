@@ -78,6 +78,13 @@ I am  B.Tech Computer Science and Engineering student with a passion for softwar
   <img src="https://img.shields.io/badge/Computer_Networks-2980B9?style=for-the-badge" alt="Computer Networks"/>
   <img src="https://img.shields.io/badge/System_Design-E67E22?style=for-the-badge" alt="System Design"/>
 </p>
-
+<div class="project-card">
+  <h2>📋 Daily Task Manager</h2>
+ <p>
+    <a href="https://github.com/your-username/daily-task-manager" target="_blank">
+      💻 GitHub Repository
+    </a>
+  </p>
+</div>
 
 
