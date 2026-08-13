@@ -107,7 +107,7 @@
 
 ### 📌 Featured Projects
 
-#### [CodeCompass](https://github.com/devtejasx/CodeCompass)-https://code-compass-8hwggblhn-tejhas-projects.vercel.app/
+#### [CodeCompass](https://github.com/devtejasx/CodeCompass)-https://code-compass-dusky.vercel.app/
 An interactive roadmap platform designed to help aspiring developers learn software engineering
 through structured learning paths, hands-on projects, and practical guidance.
 
